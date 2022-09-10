@@ -32,7 +32,7 @@ def two_sum(nums, target):
 
 # target = int(input())
 
-my_list = [1, 9, 6, 3]
+my_list = [1, 9, 3, 6]
 target = 14
 s = two_sum(my_list, target)
 print(s)

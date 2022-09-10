@@ -30,8 +30,7 @@ def two_sum(nums, target):
 #     print(my_list)
 
 
-# target = int(input())
-
+#input list
 my_list = [2, 10, 6, 3]
 target = 14
 s = two_sum(my_list, target)

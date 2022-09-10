@@ -5,7 +5,7 @@ def get_si(p, r, t):
 
     return si
 
-p = 5000
+p = 9000
 r = 6
 t = 1
 

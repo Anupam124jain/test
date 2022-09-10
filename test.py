@@ -4,10 +4,12 @@ def get_si(p, r, t):
 
     return si
 
-p = 9000
+#inut parms
+p = 8000
 r = 6
 t = 1
 
+#get si result
 si = get_si(p, r, t)
 
 print(si)
